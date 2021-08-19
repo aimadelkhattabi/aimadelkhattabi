@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aimadelkhattabi
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning php/laravel
 - 📫 How to reach me elkhattabi.aimad18@gmail.com
 
 <!---
